@@ -37,8 +37,8 @@ out/
 .vscode/
 
 ### etc.. ###
-.gitignore
-.gradle
+*.gitignore
+*.gradle
 gradlew.bat
 gradlew
-.properties
+*.properties
